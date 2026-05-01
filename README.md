@@ -1,16 +1,46 @@
-## Christian Bammann
+<h1 align="center">Hello, I'm Christian</h1>
 
-<!--
-**christianbammann/christianbammann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge">
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/GMAIL-YOUR_EMAIL-red?style=for-the-badge">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=visitors&color=grey&style=flat">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3 align="center">About Me</h3>
+
+<p align="center">
+I'm a Computer Engineering student at UNC Charlotte, graduating in May 2026.
+</p>
+
+<p align="center">
+- I am seeking entry-level roles in Software Engineering, Embedded Systems, and Machine Learning. <br>
+- I enjoy working across systems, web applications, and real-world engineering problems. <br>
+- I have experience in automation, control systems, and computer vision. <br>
+</p>
+
+<p align="center">
+Let's Connect!
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+<h3 align="center">🛠️ Language and Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,matlab,git,linux,tensorflow,pytorch" />
+</p>
