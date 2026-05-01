@@ -21,7 +21,7 @@ B.S. Computer Engineering graduate from the University of North Carolina at Char
 Automation Engineer @ R.E. Mason (Jun 2026 – Present)  
 Automation Engineer Intern @ Novo Nordisk (May 2025 – Jul 2025)  
 
-Experience with Emerson DeltaV, distributed control systems, and process automation within cGMP-regulated environments
+Experience with Emerson DeltaV, distributed control systems, and cGMP process automation.
 
 </div>
 
