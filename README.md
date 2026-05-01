@@ -14,18 +14,21 @@
 
 <h3 align="center">About Me</h3>
 
-<p align="center">
-B.S. Computer Engineering graduate from the University of North Carolina at Charlotte <br><br>
+<div align="center">
 
-Automation Engineer @ R.E. Mason (Jun 2026 – Present) <br>
-Automation Engineer Intern @ Novo Nordisk (May 2025 – Jul 2025) <br><br>
+B.S. Computer Engineering graduate from the University of North Carolina at Charlotte  
+
+Automation Engineer @ R.E. Mason (Jun 2026 – Present)  
+Automation Engineer Intern @ Novo Nordisk (May 2025 – Jul 2025)  
 
 Experience with Emerson DeltaV, distributed control systems, and process automation within cGMP-regulated environments
-</p>
+
+</div>
+
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=christianbammann&theme=github-dark&hide_title=true&hide_border=true&color=4169E1&line=4169E1&point=FFFFFF&area=true&area_color=4169E1">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=christianbammann&theme=github-dark&hide_title=true&hide_border=true&color=4169E1&line=4169E1&point=FFFFFF">
 </p>
 
 ---
