@@ -23,8 +23,6 @@ Automation Engineer Intern @ Novo Nordisk (May 2025 – Jul 2025)
 
 Experience with Emerson DeltaV, distributed control systems, and cGMP process automation.
 
-</div>
-
 ---
 
 <p align="center">
