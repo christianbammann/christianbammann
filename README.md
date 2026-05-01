@@ -15,17 +15,15 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-I'm a Computer Engineering student at UNC Charlotte, graduating in May 2026.
+B.S. Computer Engineering graduate from the University of North Carolina at Charlotte
 </p>
 
-<p align="center">
-- I am seeking entry-level roles in Software Engineering, Embedded Systems, and Machine Learning. <br>
-- I enjoy working across systems, web applications, and real-world engineering problems. <br>
-- I have experience in automation, control systems, and computer vision. <br>
-</p>
+<h3 align="center">Experience</h3>
 
 <p align="center">
-Let's Connect!
+Automation Engineer @ R.E. Mason (Jun 2026 – Present) <br>
+Automation Engineer Intern @ Novo Nordisk (May 2025 – Jul 2025) <br>
+Experience in distributed control systems and process automation within cGMP environments
 </p>
 
 ---
@@ -39,5 +37,5 @@ Let's Connect!
 <h3 align="center">🛠️ Language and Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,matlab,git,linux,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,matlab,git,linux,tensorflow,pytorch,opencv,arduino" />
 </p>
