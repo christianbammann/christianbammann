@@ -1,4 +1,4 @@
-<h1 align="center">Christian Bammann</h1>
+<h1 align="center">Hello, I'm Christian</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christianbammann/">
