@@ -12,7 +12,7 @@
 
 ---
 
-<h3 align="center">About Me</h3>
+<h3 align="center">Education</h3>
 
 <p align="center">
 B.S. Computer Engineering graduate from the University of North Carolina at Charlotte
