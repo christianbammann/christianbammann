@@ -1,16 +1,13 @@
 <h1 align="center">Hello, I'm Christian</h1>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge">
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/GMAIL-YOUR_EMAIL-red?style=for-the-badge">
+  <a href="https://www.linkedin.com/in/christianbammann/">
+    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=visitors&color=grey&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=christianbammann&label=visitors&color=grey&style=flat">
 </p>
 
 ---
@@ -34,7 +31,7 @@ Let's Connect!
 ---
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark">
 </p>
 
 ---
