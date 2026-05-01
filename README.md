@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=christianbammann&label=visitors&color=grey&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=visitors&color=grey&style=flat">
 </p>
 
 ---
@@ -31,7 +31,7 @@ Let's Connect!
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=christianbammann&theme=github-dark">
 </p>
 
 ---
