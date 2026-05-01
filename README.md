@@ -28,11 +28,7 @@ Experience with Emerson DeltaV, distributed control systems, and process automat
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=christianbammann&theme=github-dark&hide_title=true&hide_border=true&color=4169E1&line=4169E1&point=FFFFFF">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christianbammann&show_icons=true&theme=github_dark&hide_border=true&title_color=4169E1&icon_color=4169E1">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=christianbammann&theme=github-dark&hide_title=true&hide_border=true&color=4169E1&line=4169E1&point=FFFFFF&area=true&area_color=1E3A8A">
 </p>
 
 ---
