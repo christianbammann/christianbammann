@@ -33,8 +33,6 @@ Experience with Emerson DeltaV, distributed control systems, and process automat
 
 ---
 
-<h3 align="center">🛠️ Language and Tools</h3>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,matlab,git,linux,tensorflow,pytorch,opencv,arduino" />
 </p>
