@@ -15,13 +15,13 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-B.S. Computer Engineering graduate from the University of North Carolina at Charlotte
+B.S. Computer Engineering graduate from the University of North Carolina at Charlotte <br><br>
 
 Automation Engineer @ R.E. Mason (Jun 2026 – Present) <br>
-Automation Engineer Intern @ Novo Nordisk (May 2025 – Jul 2025) <br>
-Experience with Emerson DeltaV, distrubuted control systems, and process automation within cGMP-regulated environments</p>
-</p>
+Automation Engineer Intern @ Novo Nordisk (May 2025 – Jul 2025) <br><br>
 
+Experience with Emerson DeltaV, distributed control systems, and process automation within cGMP-regulated environments
+</p>
 ---
 
 <p align="center">
