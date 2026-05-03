@@ -16,7 +16,7 @@
 
 <div align="center">
 
-B.S. Computer Engineering graduate from the University of North Carolina at Charlotte  
+B.S. Computer Engineering student at the University of North Carolina at Charlotte  
 
 Automation Engineer @ R.E. Mason (Jun 2026 – Present)  
 Automation Engineer Intern @ Novo Nordisk (May 2025 – Jul 2025)  
